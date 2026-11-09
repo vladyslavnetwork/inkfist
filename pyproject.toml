@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inkfist"
+version = "1.0.0"
+description = "Ink-wash martial arts adventure: six chapters, bosses and techniques to learn"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = ["pygame-ce>=2.5.6"]
+
+[project.scripts]
+inkfist = "inkfist.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+inkfist = ["locale/*/LC_MESSAGES/*.mo", "icon.png"]

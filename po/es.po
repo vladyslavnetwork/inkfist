@@ -1,0 +1,299 @@
+# es translation for Inkfist.
+# This file is distributed under the same license as the inkfist package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: inkfist 1.0.0\n"
+"PO-Revision-Date: 2026-11-09 12:00+0200\n"
+"Last-Translator: Vladyslav\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "Acerca del juego"
+
+msgid "Version {v}"
+msgstr "Versión {v}"
+
+msgid "Author: {name}"
+msgstr "Autor: {name}"
+
+msgid "License: MIT"
+msgstr "Licencia: MIT"
+
+msgid "Source code, bug reports and updates:"
+msgstr "Código fuente, informes de errores y actualizaciones:"
+
+msgid "Opened in your browser."
+msgstr "Abierto en tu navegador."
+
+msgid "Could not open the browser. Type the address manually."
+msgstr "No se pudo abrir el navegador. Escribe la dirección manualmente."
+
+msgid "ENTER — open in browser    ESC — back"
+msgstr "ENTER — abrir en el navegador    ESC — atrás"
+
+msgid "Easy"
+msgstr "Fácil"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Hard"
+msgstr "Difícil"
+
+msgid "For three hundred years the Wind Bell rang over the valley at dawn. Last night it fell silent: the Warlord of Seven Winds stole it and fled to the summit. Your master is too old for the climb. You are not."
+msgstr "Durante trescientos años la Campana del Viento sonó al amanecer sobre el valle. Anoche enmudeció: el Señor de los Siete Vientos la robó y huyó a la cumbre. Tu maestro es demasiado viejo para la subida. Tú no."
+
+msgid "Brigands guard the bamboo paths. Keep your guard up and strike when they open theirs."
+msgstr "Los bandidos vigilan los senderos de bambú. Mantén la guardia y golpea cuando abran la suya."
+
+msgid "A rope bridge spans the gorge. The Bridge Keeper lets no one pass — he hits hard, but slowly."
+msgstr "Un puente de cuerdas cruza la garganta. El Guardián del Puente no deja pasar a nadie: golpea fuerte, pero despacio."
+
+msgid "The rain monks serve the Warlord now. They read every strike. Hit them where they do not guard."
+msgstr "Los monjes de la lluvia sirven ahora al Señor. Leen cada golpe. Golpéalos donde no se protegen."
+
+msgid "Snow muffles every step. Shadows move faster than you — watch their hands."
+msgstr "La nieve apaga cada paso. Las sombras son más rápidas que tú: vigila sus manos."
+
+msgid "The old temple burns. The Ember General waits among the ruins with his long spear."
+msgstr "El viejo templo arde. El General de las Brasas espera entre las ruinas con su larga lanza."
+
+msgid "The summit. The wind howls, the sky cracks. The Bell is near — and so is the Warlord."
+msgstr "La cumbre. Aúlla el viento, se quiebra el cielo. La Campana está cerca, y el Señor también."
+
+msgid "The Wind Bell rings over the valley again. Your master bows to you: the student has become the teacher."
+msgstr "La Campana del Viento vuelve a sonar sobre el valle. Tu maestro se inclina ante ti: el alumno se ha convertido en maestro."
+
+msgid "Leg Sweep"
+msgstr "Barrido"
+
+msgid "DOWN + KICK. Knocks the enemy off their feet. Only a crouching guard stops it."
+msgstr "ABAJO + PATADA. Derriba al enemigo. Solo una guardia baja lo detiene."
+
+msgid "Dodge"
+msgstr "Esquiva"
+
+msgid "SPACE. A quick step back: attacks pass right through you."
+msgstr "ESPACIO. Un paso rápido atrás: los golpes te atraviesan."
+
+msgid "Perfect Parry"
+msgstr "Parada perfecta"
+
+msgid "Block at the very last moment: the enemy staggers and you gain focus."
+msgstr "Bloquea en el último instante: el enemigo se tambalea y ganas concentración."
+
+msgid "Flying Kick"
+msgstr "Patada voladora"
+
+msgid "U. A leaping kick across the arena. Costs a third of your focus."
+msgstr "U. Un salto con patada a través de la arena. Cuesta un tercio de la concentración."
+
+msgid "Spirit Palm"
+msgstr "Palma del espíritu"
+
+msgid "I. Releases a wave of ink. Needs a full focus bar."
+msgstr "I. Libera una ola de tinta. Requiere la barra de concentración llena."
+
+msgid "Not enough focus"
+msgstr "No hay suficiente concentración"
+
+msgid "Flawless!"
+msgstr "¡Impecable!"
+
+msgid "Parry!"
+msgstr "¡Parada!"
+
+msgid "The Warlord is furious!"
+msgstr "¡El Señor está furioso!"
+
+msgid "PAUSED"
+msgstr "PAUSA"
+
+msgid "P — continue    ESC — main menu"
+msgstr "P — continuar    ESC — menú principal"
+
+msgid "You have fallen"
+msgstr "Has caído"
+
+msgid "Spirit left: {n}. ENTER — rise and fight again"
+msgstr "Espíritu restante: {n}. ENTER — levántate y lucha"
+
+msgid "No spirit left. ENTER — restart the chapter"
+msgstr "Sin espíritu. ENTER — reiniciar el capítulo"
+
+msgid "ESC — main menu"
+msgstr "ESC — menú principal"
+
+msgid "A journey of fists and ink"
+msgstr "Un viaje de puños y tinta"
+
+msgid "HI-SCORE"
+msgstr "RÉCORD"
+
+msgid "On"
+msgstr "Sí"
+
+msgid "Off"
+msgstr "No"
+
+msgid "New journey"
+msgstr "Nuevo viaje"
+
+msgid "Continue: {name}"
+msgstr "Continuar: {name}"
+
+msgid "Controls"
+msgstr "Controles"
+
+msgid "Difficulty: {name}"
+msgstr "Dificultad: {name}"
+
+msgid "Language: {name}"
+msgstr "Idioma: {name}"
+
+msgid "Sound: {state}"
+msgstr "Sonido: {state}"
+
+msgid "Music: {state}"
+msgstr "Música: {state}"
+
+msgid "Fullscreen: {state}"
+msgstr "Pantalla completa: {state}"
+
+msgid "Quit"
+msgstr "Salir"
+
+msgid "ARROWS — choose    ENTER — confirm    F11 — fullscreen"
+msgstr "FLECHAS — elegir    ENTER — confirmar    F11 — pantalla completa"
+
+msgid "Move"
+msgstr "Mover"
+
+msgid "Left stick / D-pad"
+msgstr "Stick izquierdo / cruceta"
+
+msgid "Crouch"
+msgstr "Agacharse"
+
+msgid "Punch"
+msgstr "Puñetazo"
+
+msgid "Kick  (Up + kick — high kick)"
+msgstr "Patada  (Arriba + patada — patada alta)"
+
+msgid "Block (hold; crouch + block — low guard)"
+msgstr "Bloqueo (mantener; agachado + bloqueo — guardia baja)"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Keyboard"
+msgstr "Teclado"
+
+msgid "Gamepad"
+msgstr "Mando"
+
+msgid "New techniques are learned as the journey goes on."
+msgstr "Aprenderás nuevas técnicas en el camino."
+
+msgid "Press any key to return"
+msgstr "Pulsa cualquier tecla para volver"
+
+msgid "THE END"
+msgstr "FIN"
+
+msgid "Score: {n}"
+msgstr "Puntos: {n}"
+
+msgid "NEW HIGH SCORE!"
+msgstr "¡NUEVO RÉCORD!"
+
+msgid "Thank you for playing."
+msgstr "Gracias por jugar."
+
+msgid "Press ENTER"
+msgstr "Pulsa ENTER"
+
+msgid "Chapter {n}"
+msgstr "Capítulo {n}"
+
+msgid "Epilogue"
+msgstr "Epílogo"
+
+msgid "ENTER — continue"
+msgstr "ENTER — continuar"
+
+msgid "Chapter complete!"
+msgstr "¡Capítulo completado!"
+
+msgid "New technique learned"
+msgstr "Nueva técnica aprendida"
+
+msgid "You"
+msgstr "Tú"
+
+msgid "Focus"
+msgstr "Concentración"
+
+msgid "Score"
+msgstr "Puntos"
+
+msgid "Right — walk    J punch    K kick    hold L — block    Down — crouch"
+msgstr "Derecha — andar    J puño    K patada    mantén L — bloqueo    Abajo — agacharse"
+
+msgid "The Bamboo Grove"
+msgstr "El Bosque de Bambú"
+
+msgid "The River Gorge"
+msgstr "La Garganta del Río"
+
+msgid "The Rain Monastery"
+msgstr "El Monasterio de la Lluvia"
+
+msgid "The Snow Pass"
+msgstr "El Paso Nevado"
+
+msgid "The Ember Temple"
+msgstr "El Templo de las Brasas"
+
+msgid "The Summit of Seven Winds"
+msgstr "La Cumbre de los Siete Vientos"
+
+msgid "Brigand"
+msgstr "Bandido"
+
+msgid "Brute"
+msgstr "Bruto"
+
+msgid "Lancer"
+msgstr "Lancero"
+
+msgid "Shade"
+msgstr "Sombra"
+
+msgid "Monk"
+msgstr "Monje"
+
+msgid "Bamboo Fang"
+msgstr "Colmillo de Bambú"
+
+msgid "Bridge Keeper"
+msgstr "Guardián del Puente"
+
+msgid "Abbot of Rain"
+msgstr "Abad de la Lluvia"
+
+msgid "White Wolf"
+msgstr "Lobo Blanco"
+
+msgid "Ember General"
+msgstr "General de las Brasas"
+
+msgid "The Warlord"
+msgstr "El Señor"

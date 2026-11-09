@@ -1,0 +1,68 @@
+name: inkfist
+title: Inkfist
+version: '1.0.0'
+summary: Ink-wash martial arts adventure — six chapters, bosses, new techniques
+description: |
+  A young martial artist climbs the Mountain of Seven Winds to bring back
+  the stolen Wind Bell. Inspired by the classic side-view karate games of
+  the 1980s, retold in a modern ink-wash style.
+
+  - Six chapters: bamboo grove, river gorge, rain monastery, snow pass,
+    burning temple and the stormy summit — each with its own weather and music
+  - Five enemy types and six bosses with their own fighting styles
+  - Learn new techniques as you go: leg sweep, dodge, perfect parry,
+    flying kick and the Spirit Palm
+  - Arrows and falling rocks between fights, checkpoints for every chapter
+  - Keyboard and gamepad, three difficulty levels
+
+  Languages: English, Ukrainian, Polish, German, French, Spanish.
+license: MIT
+icon: snap/gui/inkfist.png
+website: https://github.com/vladyslavnetwork/inkfist
+contact: https://github.com/vladyslavnetwork/inkfist/issues
+source-code: https://github.com/vladyslavnetwork/inkfist
+issues: https://github.com/vladyslavnetwork/inkfist/issues
+
+base: core26
+confinement: strict
+grade: stable
+
+platforms:
+  amd64:
+  arm64:
+
+apps:
+  inkfist:
+    command: bin/inkfist
+    extensions: [gnome]
+    plugs:
+      - audio-playback
+      - opengl
+      - joystick
+
+parts:
+  # У core26 немає вбудованого Python, тому кладемо інтерпретатор у пакет.
+  python-runtime:
+    plugin: nil
+    stage-packages:
+      - libpython3.14-minimal
+      - libpython3.14-stdlib
+      - python3-minimal
+      - python3.14-minimal
+      - python3.14-venv
+
+  inkfist:
+    after: [python-runtime]
+    plugin: python
+    source: .
+    build-packages:
+      - gettext
+    build-environment:
+      # Розширення gnome підставляє свій PYTHONPATH і PATH із gnome-core26-sdk,
+      # через що venv бере чужий pip і чужий python3. Повертаємо наш Python.
+      - PATH: ${CRAFT_STAGE}/usr/bin:${PATH}
+      - PYTHONPATH: ""
+    override-build: |
+      # Компілюємо переклади (.po -> .mo) перед встановленням пакета
+      ./tools/compile_translations.sh
+      craftctl default

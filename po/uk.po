@@ -1,0 +1,299 @@
+# uk translation for Inkfist.
+# This file is distributed under the same license as the inkfist package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: inkfist 1.0.0\n"
+"PO-Revision-Date: 2026-11-09 12:00+0200\n"
+"Last-Translator: Vladyslav\n"
+"Language-Team: none\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "About"
+msgstr "Про гру"
+
+msgid "Version {v}"
+msgstr "Версія {v}"
+
+msgid "Author: {name}"
+msgstr "Автор: {name}"
+
+msgid "License: MIT"
+msgstr "Ліцензія: MIT"
+
+msgid "Source code, bug reports and updates:"
+msgstr "Вихідний код, повідомлення про помилки та оновлення:"
+
+msgid "Opened in your browser."
+msgstr "Відкрито у браузері."
+
+msgid "Could not open the browser. Type the address manually."
+msgstr "Не вдалося відкрити браузер. Введіть адресу вручну."
+
+msgid "ENTER — open in browser    ESC — back"
+msgstr "ENTER — відкрити у браузері    ESC — назад"
+
+msgid "Easy"
+msgstr "Легко"
+
+msgid "Normal"
+msgstr "Нормально"
+
+msgid "Hard"
+msgstr "Важко"
+
+msgid "For three hundred years the Wind Bell rang over the valley at dawn. Last night it fell silent: the Warlord of Seven Winds stole it and fled to the summit. Your master is too old for the climb. You are not."
+msgstr "Триста років Вітряний дзвін лунав над долиною на світанку. Минулої ночі він замовк: Володар Семи Вітрів викрав його і втік на вершину. Твій учитель надто старий для цього підйому. А ти — ні."
+
+msgid "Brigands guard the bamboo paths. Keep your guard up and strike when they open theirs."
+msgstr "Розбійники стережуть бамбукові стежки. Тримай захист і бий, коли вони розкриються."
+
+msgid "A rope bridge spans the gorge. The Bridge Keeper lets no one pass — he hits hard, but slowly."
+msgstr "Канатний міст перекинуто через ущелину. Вартовий мосту нікого не пропускає — б'є важко, але повільно."
+
+msgid "The rain monks serve the Warlord now. They read every strike. Hit them where they do not guard."
+msgstr "Монахи дощу тепер служать Володарю. Вони читають кожен удар. Бий туди, де вони не захищаються."
+
+msgid "Snow muffles every step. Shadows move faster than you — watch their hands."
+msgstr "Сніг глушить кожен крок. Тіні рухаються швидше за тебе — стеж за їхніми руками."
+
+msgid "The old temple burns. The Ember General waits among the ruins with his long spear."
+msgstr "Старий храм палає. Вогняний генерал чекає серед руїн зі своїм довгим списом."
+
+msgid "The summit. The wind howls, the sky cracks. The Bell is near — and so is the Warlord."
+msgstr "Вершина. Виє вітер, розколюється небо. Дзвін близько — і Володар теж."
+
+msgid "The Wind Bell rings over the valley again. Your master bows to you: the student has become the teacher."
+msgstr "Вітряний дзвін знову лунає над долиною. Учитель вклоняється тобі: учень став учителем."
+
+msgid "Leg Sweep"
+msgstr "Підсічка"
+
+msgid "DOWN + KICK. Knocks the enemy off their feet. Only a crouching guard stops it."
+msgstr "ВНИЗ + НОГА. Збиває ворога з ніг. Зупиняє її лише нижній блок."
+
+msgid "Dodge"
+msgstr "Ухилення"
+
+msgid "SPACE. A quick step back: attacks pass right through you."
+msgstr "ПРОБІЛ. Швидкий крок назад: удари проходять крізь тебе."
+
+msgid "Perfect Parry"
+msgstr "Ідеальне парирування"
+
+msgid "Block at the very last moment: the enemy staggers and you gain focus."
+msgstr "Постав блок в останню мить: ворог похитнеться, а ти отримаєш зосередження."
+
+msgid "Flying Kick"
+msgstr "Удар у стрибку"
+
+msgid "U. A leaping kick across the arena. Costs a third of your focus."
+msgstr "U. Стрибок через арену з ударом ноги. Коштує третину зосередження."
+
+msgid "Spirit Palm"
+msgstr "Долоня духу"
+
+msgid "I. Releases a wave of ink. Needs a full focus bar."
+msgstr "I. Випускає хвилю туші. Потрібна повна шкала зосередження."
+
+msgid "Not enough focus"
+msgstr "Замало зосередження"
+
+msgid "Flawless!"
+msgstr "Бездоганно!"
+
+msgid "Parry!"
+msgstr "Парирування!"
+
+msgid "The Warlord is furious!"
+msgstr "Володар розлютився!"
+
+msgid "PAUSED"
+msgstr "ПАУЗА"
+
+msgid "P — continue    ESC — main menu"
+msgstr "P — продовжити    ESC — головне меню"
+
+msgid "You have fallen"
+msgstr "Ти впав"
+
+msgid "Spirit left: {n}. ENTER — rise and fight again"
+msgstr "Залишилось духу: {n}. ENTER — підвестися і битися знову"
+
+msgid "No spirit left. ENTER — restart the chapter"
+msgstr "Дух вичерпано. ENTER — почати розділ спочатку"
+
+msgid "ESC — main menu"
+msgstr "ESC — головне меню"
+
+msgid "A journey of fists and ink"
+msgstr "Подорож кулаків і туші"
+
+msgid "HI-SCORE"
+msgstr "РЕКОРД"
+
+msgid "On"
+msgstr "Увімк."
+
+msgid "Off"
+msgstr "Вимк."
+
+msgid "New journey"
+msgstr "Нова подорож"
+
+msgid "Continue: {name}"
+msgstr "Продовжити: {name}"
+
+msgid "Controls"
+msgstr "Керування"
+
+msgid "Difficulty: {name}"
+msgstr "Складність: {name}"
+
+msgid "Language: {name}"
+msgstr "Мова: {name}"
+
+msgid "Sound: {state}"
+msgstr "Звук: {state}"
+
+msgid "Music: {state}"
+msgstr "Музика: {state}"
+
+msgid "Fullscreen: {state}"
+msgstr "Повний екран: {state}"
+
+msgid "Quit"
+msgstr "Вийти"
+
+msgid "ARROWS — choose    ENTER — confirm    F11 — fullscreen"
+msgstr "СТРІЛКИ — вибір    ENTER — підтвердити    F11 — повний екран"
+
+msgid "Move"
+msgstr "Рух"
+
+msgid "Left stick / D-pad"
+msgstr "Лівий стік / хрестовина"
+
+msgid "Crouch"
+msgstr "Присід"
+
+msgid "Punch"
+msgstr "Удар рукою"
+
+msgid "Kick  (Up + kick — high kick)"
+msgstr "Удар ногою  (Вгору + нога — високий удар)"
+
+msgid "Block (hold; crouch + block — low guard)"
+msgstr "Блок (тримати; присід + блок — нижній захист)"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Keyboard"
+msgstr "Клавіатура"
+
+msgid "Gamepad"
+msgstr "Геймпад"
+
+msgid "New techniques are learned as the journey goes on."
+msgstr "Нові прийоми ти опануєш у дорозі."
+
+msgid "Press any key to return"
+msgstr "Натисни будь-яку клавішу, щоб повернутися"
+
+msgid "THE END"
+msgstr "КІНЕЦЬ"
+
+msgid "Score: {n}"
+msgstr "Рахунок: {n}"
+
+msgid "NEW HIGH SCORE!"
+msgstr "НОВИЙ РЕКОРД!"
+
+msgid "Thank you for playing."
+msgstr "Дякуємо за гру."
+
+msgid "Press ENTER"
+msgstr "Натисни ENTER"
+
+msgid "Chapter {n}"
+msgstr "Розділ {n}"
+
+msgid "Epilogue"
+msgstr "Епілог"
+
+msgid "ENTER — continue"
+msgstr "ENTER — далі"
+
+msgid "Chapter complete!"
+msgstr "Розділ пройдено!"
+
+msgid "New technique learned"
+msgstr "Новий прийом опановано"
+
+msgid "You"
+msgstr "Ти"
+
+msgid "Focus"
+msgstr "Зосередження"
+
+msgid "Score"
+msgstr "Рахунок"
+
+msgid "Right — walk    J punch    K kick    hold L — block    Down — crouch"
+msgstr "Вправо — йти    J рука    K нога    тримай L — блок    Вниз — присід"
+
+msgid "The Bamboo Grove"
+msgstr "Бамбуковий гай"
+
+msgid "The River Gorge"
+msgstr "Річкова ущелина"
+
+msgid "The Rain Monastery"
+msgstr "Монастир дощу"
+
+msgid "The Snow Pass"
+msgstr "Сніговий перевал"
+
+msgid "The Ember Temple"
+msgstr "Вогняний храм"
+
+msgid "The Summit of Seven Winds"
+msgstr "Вершина Семи Вітрів"
+
+msgid "Brigand"
+msgstr "Розбійник"
+
+msgid "Brute"
+msgstr "Здоровань"
+
+msgid "Lancer"
+msgstr "Списник"
+
+msgid "Shade"
+msgstr "Тінь"
+
+msgid "Monk"
+msgstr "Монах"
+
+msgid "Bamboo Fang"
+msgstr "Бамбукове Ікло"
+
+msgid "Bridge Keeper"
+msgstr "Вартовий мосту"
+
+msgid "Abbot of Rain"
+msgstr "Настоятель Дощу"
+
+msgid "White Wolf"
+msgstr "Білий Вовк"
+
+msgid "Ember General"
+msgstr "Вогняний генерал"
+
+msgid "The Warlord"
+msgstr "Володар"

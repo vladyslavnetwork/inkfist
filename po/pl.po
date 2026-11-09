@@ -1,0 +1,299 @@
+# pl translation for Inkfist.
+# This file is distributed under the same license as the inkfist package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: inkfist 1.0.0\n"
+"PO-Revision-Date: 2026-11-09 12:00+0200\n"
+"Last-Translator: Vladyslav\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "About"
+msgstr "O grze"
+
+msgid "Version {v}"
+msgstr "Wersja {v}"
+
+msgid "Author: {name}"
+msgstr "Autor: {name}"
+
+msgid "License: MIT"
+msgstr "Licencja: MIT"
+
+msgid "Source code, bug reports and updates:"
+msgstr "Kod źródłowy, zgłoszenia błędów i aktualizacje:"
+
+msgid "Opened in your browser."
+msgstr "Otwarto w przeglądarce."
+
+msgid "Could not open the browser. Type the address manually."
+msgstr "Nie udało się otworzyć przeglądarki. Wpisz adres ręcznie."
+
+msgid "ENTER — open in browser    ESC — back"
+msgstr "ENTER — otwórz w przeglądarce    ESC — wstecz"
+
+msgid "Easy"
+msgstr "Łatwy"
+
+msgid "Normal"
+msgstr "Normalny"
+
+msgid "Hard"
+msgstr "Trudny"
+
+msgid "For three hundred years the Wind Bell rang over the valley at dawn. Last night it fell silent: the Warlord of Seven Winds stole it and fled to the summit. Your master is too old for the climb. You are not."
+msgstr "Przez trzysta lat Dzwon Wiatru rozbrzmiewał o świcie nad doliną. Zeszłej nocy umilkł: Władca Siedmiu Wiatrów ukradł go i uciekł na szczyt. Twój mistrz jest za stary na tę wspinaczkę. Ty nie."
+
+msgid "Brigands guard the bamboo paths. Keep your guard up and strike when they open theirs."
+msgstr "Zbóje strzegą bambusowych ścieżek. Trzymaj gardę i uderzaj, gdy się odsłonią."
+
+msgid "A rope bridge spans the gorge. The Bridge Keeper lets no one pass — he hits hard, but slowly."
+msgstr "Most linowy wisi nad wąwozem. Strażnik Mostu nikogo nie przepuszcza — bije mocno, ale powoli."
+
+msgid "The rain monks serve the Warlord now. They read every strike. Hit them where they do not guard."
+msgstr "Mnisi deszczu służą teraz Władcy. Czytają każdy cios. Uderzaj tam, gdzie się nie bronią."
+
+msgid "Snow muffles every step. Shadows move faster than you — watch their hands."
+msgstr "Śnieg tłumi każdy krok. Cienie są szybsze od ciebie — obserwuj ich dłonie."
+
+msgid "The old temple burns. The Ember General waits among the ruins with his long spear."
+msgstr "Stara świątynia płonie. Ognisty Generał czeka w ruinach ze swoją długą włócznią."
+
+msgid "The summit. The wind howls, the sky cracks. The Bell is near — and so is the Warlord."
+msgstr "Szczyt. Wyje wiatr, pęka niebo. Dzwon jest blisko — Władca również."
+
+msgid "The Wind Bell rings over the valley again. Your master bows to you: the student has become the teacher."
+msgstr "Dzwon Wiatru znów rozbrzmiewa nad doliną. Mistrz kłania się tobie: uczeń stał się nauczycielem."
+
+msgid "Leg Sweep"
+msgstr "Podcięcie"
+
+msgid "DOWN + KICK. Knocks the enemy off their feet. Only a crouching guard stops it."
+msgstr "DÓŁ + KOPNIĘCIE. Przewraca wroga. Zatrzyma je tylko niska garda."
+
+msgid "Dodge"
+msgstr "Unik"
+
+msgid "SPACE. A quick step back: attacks pass right through you."
+msgstr "SPACJA. Szybki krok w tył: ciosy przechodzą przez ciebie."
+
+msgid "Perfect Parry"
+msgstr "Idealne parowanie"
+
+msgid "Block at the very last moment: the enemy staggers and you gain focus."
+msgstr "Zablokuj w ostatniej chwili: wróg się zachwieje, a ty zyskasz skupienie."
+
+msgid "Flying Kick"
+msgstr "Kopnięcie z wyskoku"
+
+msgid "U. A leaping kick across the arena. Costs a third of your focus."
+msgstr "U. Skok przez arenę z kopnięciem. Kosztuje jedną trzecią skupienia."
+
+msgid "Spirit Palm"
+msgstr "Dłoń Ducha"
+
+msgid "I. Releases a wave of ink. Needs a full focus bar."
+msgstr "I. Uwalnia falę tuszu. Wymaga pełnego paska skupienia."
+
+msgid "Not enough focus"
+msgstr "Za mało skupienia"
+
+msgid "Flawless!"
+msgstr "Bez skazy!"
+
+msgid "Parry!"
+msgstr "Parowanie!"
+
+msgid "The Warlord is furious!"
+msgstr "Władca wpada w szał!"
+
+msgid "PAUSED"
+msgstr "PAUZA"
+
+msgid "P — continue    ESC — main menu"
+msgstr "P — kontynuuj    ESC — menu główne"
+
+msgid "You have fallen"
+msgstr "Upadłeś"
+
+msgid "Spirit left: {n}. ENTER — rise and fight again"
+msgstr "Pozostało ducha: {n}. ENTER — wstań i walcz dalej"
+
+msgid "No spirit left. ENTER — restart the chapter"
+msgstr "Brak ducha. ENTER — rozdział od nowa"
+
+msgid "ESC — main menu"
+msgstr "ESC — menu główne"
+
+msgid "A journey of fists and ink"
+msgstr "Podróż pięści i tuszu"
+
+msgid "HI-SCORE"
+msgstr "REKORD"
+
+msgid "On"
+msgstr "Wł."
+
+msgid "Off"
+msgstr "Wył."
+
+msgid "New journey"
+msgstr "Nowa podróż"
+
+msgid "Continue: {name}"
+msgstr "Kontynuuj: {name}"
+
+msgid "Controls"
+msgstr "Sterowanie"
+
+msgid "Difficulty: {name}"
+msgstr "Poziom trudności: {name}"
+
+msgid "Language: {name}"
+msgstr "Język: {name}"
+
+msgid "Sound: {state}"
+msgstr "Dźwięk: {state}"
+
+msgid "Music: {state}"
+msgstr "Muzyka: {state}"
+
+msgid "Fullscreen: {state}"
+msgstr "Pełny ekran: {state}"
+
+msgid "Quit"
+msgstr "Wyjdź"
+
+msgid "ARROWS — choose    ENTER — confirm    F11 — fullscreen"
+msgstr "STRZAŁKI — wybór    ENTER — zatwierdź    F11 — pełny ekran"
+
+msgid "Move"
+msgstr "Ruch"
+
+msgid "Left stick / D-pad"
+msgstr "Lewa gałka / krzyżak"
+
+msgid "Crouch"
+msgstr "Kucnięcie"
+
+msgid "Punch"
+msgstr "Cios ręką"
+
+msgid "Kick  (Up + kick — high kick)"
+msgstr "Kopnięcie  (Góra + kopnięcie — wysokie)"
+
+msgid "Block (hold; crouch + block — low guard)"
+msgstr "Blok (przytrzymaj; kucnięcie + blok — niska garda)"
+
+msgid "Pause"
+msgstr "Pauza"
+
+msgid "Keyboard"
+msgstr "Klawiatura"
+
+msgid "Gamepad"
+msgstr "Pad"
+
+msgid "New techniques are learned as the journey goes on."
+msgstr "Nowych technik nauczysz się w trakcie podróży."
+
+msgid "Press any key to return"
+msgstr "Naciśnij dowolny klawisz, aby wrócić"
+
+msgid "THE END"
+msgstr "KONIEC"
+
+msgid "Score: {n}"
+msgstr "Wynik: {n}"
+
+msgid "NEW HIGH SCORE!"
+msgstr "NOWY REKORD!"
+
+msgid "Thank you for playing."
+msgstr "Dziękujemy za grę."
+
+msgid "Press ENTER"
+msgstr "Naciśnij ENTER"
+
+msgid "Chapter {n}"
+msgstr "Rozdział {n}"
+
+msgid "Epilogue"
+msgstr "Epilog"
+
+msgid "ENTER — continue"
+msgstr "ENTER — dalej"
+
+msgid "Chapter complete!"
+msgstr "Rozdział ukończony!"
+
+msgid "New technique learned"
+msgstr "Nowa technika opanowana"
+
+msgid "You"
+msgstr "Ty"
+
+msgid "Focus"
+msgstr "Skupienie"
+
+msgid "Score"
+msgstr "Wynik"
+
+msgid "Right — walk    J punch    K kick    hold L — block    Down — crouch"
+msgstr "Prawo — idź    J ręka    K noga    trzymaj L — blok    Dół — kucnij"
+
+msgid "The Bamboo Grove"
+msgstr "Bambusowy gaj"
+
+msgid "The River Gorge"
+msgstr "Wąwóz rzeki"
+
+msgid "The Rain Monastery"
+msgstr "Klasztor Deszczu"
+
+msgid "The Snow Pass"
+msgstr "Śnieżna przełęcz"
+
+msgid "The Ember Temple"
+msgstr "Ognista świątynia"
+
+msgid "The Summit of Seven Winds"
+msgstr "Szczyt Siedmiu Wiatrów"
+
+msgid "Brigand"
+msgstr "Zbój"
+
+msgid "Brute"
+msgstr "Osiłek"
+
+msgid "Lancer"
+msgstr "Włócznik"
+
+msgid "Shade"
+msgstr "Cień"
+
+msgid "Monk"
+msgstr "Mnich"
+
+msgid "Bamboo Fang"
+msgstr "Bambusowy Kieł"
+
+msgid "Bridge Keeper"
+msgstr "Strażnik Mostu"
+
+msgid "Abbot of Rain"
+msgstr "Opat Deszczu"
+
+msgid "White Wolf"
+msgstr "Biały Wilk"
+
+msgid "Ember General"
+msgstr "Ognisty Generał"
+
+msgid "The Warlord"
+msgstr "Władca"

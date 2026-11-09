@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Name=Inkfist
+GenericName=Martial arts adventure
+GenericName[uk]=Пригода бойових мистецтв
+Comment=Climb the mountain, defeat the Warlord, bring back the Wind Bell
+Comment[uk]=Підіймися на гору, переможи Володаря і поверни Вітряний дзвін
+Comment[pl]=Wespnij się na górę, pokonaj Władcę i odzyskaj Dzwon Wiatru
+Comment[de]=Erklimme den Berg, besiege den Herrn der Winde und hol die Windglocke zurück
+Comment[fr]=Gravissez la montagne, battez le Seigneur et rapportez la Cloche du Vent
+Comment[es]=Sube la montaña, derrota al Señor y recupera la Campana del Viento
+Exec=inkfist
+Icon=${SNAP}/meta/gui/inkfist.png
+Terminal=false
+Categories=Game;ActionGame;
+Keywords=karate;martial;arts;fighting;retro;ink;game;
+Keywords[uk]=карате;бойові;мистецтва;бійка;ретро;гра;
+StartupWMClass=inkfist

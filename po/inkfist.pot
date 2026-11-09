@@ -1,0 +1,427 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the inkfist package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: inkfist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-09 09:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/inkfist/about.py:58 src/inkfist/game.py:822
+msgid "About"
+msgstr ""
+
+#: src/inkfist/about.py:59
+#, python-brace-format
+msgid "Version {v}"
+msgstr ""
+
+#: src/inkfist/about.py:60
+#, python-brace-format
+msgid "Author: {name}"
+msgstr ""
+
+#: src/inkfist/about.py:61
+msgid "License: MIT"
+msgstr ""
+
+#: src/inkfist/about.py:62
+msgid "Source code, bug reports and updates:"
+msgstr ""
+
+#: src/inkfist/about.py:65
+msgid "Opened in your browser."
+msgstr ""
+
+#: src/inkfist/about.py:67
+msgid "Could not open the browser. Type the address manually."
+msgstr ""
+
+#: src/inkfist/about.py:69
+msgid "ENTER — open in browser    ESC — back"
+msgstr ""
+
+#: src/inkfist/game.py:41
+msgid "Easy"
+msgstr ""
+
+#: src/inkfist/game.py:41
+msgid "Normal"
+msgstr ""
+
+#: src/inkfist/game.py:41
+msgid "Hard"
+msgstr ""
+
+#: src/inkfist/game.py:47
+msgid ""
+"For three hundred years the Wind Bell rang over the valley at dawn. Last "
+"night it fell silent: the Warlord of Seven Winds stole it and fled to the "
+"summit. Your master is too old for the climb. You are not."
+msgstr ""
+
+#: src/inkfist/game.py:48
+msgid ""
+"Brigands guard the bamboo paths. Keep your guard up and strike when they "
+"open theirs."
+msgstr ""
+
+#: src/inkfist/game.py:49
+msgid ""
+"A rope bridge spans the gorge. The Bridge Keeper lets no one pass — he hits "
+"hard, but slowly."
+msgstr ""
+
+#: src/inkfist/game.py:50
+msgid ""
+"The rain monks serve the Warlord now. They read every strike. Hit them where "
+"they do not guard."
+msgstr ""
+
+#: src/inkfist/game.py:51
+msgid ""
+"Snow muffles every step. Shadows move faster than you — watch their hands."
+msgstr ""
+
+#: src/inkfist/game.py:52
+msgid ""
+"The old temple burns. The Ember General waits among the ruins with his long "
+"spear."
+msgstr ""
+
+#: src/inkfist/game.py:53
+msgid ""
+"The summit. The wind howls, the sky cracks. The Bell is near — and so is the "
+"Warlord."
+msgstr ""
+
+#: src/inkfist/game.py:54
+msgid ""
+"The Wind Bell rings over the valley again. Your master bows to you: the "
+"student has become the teacher."
+msgstr ""
+
+#: src/inkfist/game.py:60 src/inkfist/game.py:849
+msgid "Leg Sweep"
+msgstr ""
+
+#: src/inkfist/game.py:60
+msgid ""
+"DOWN + KICK. Knocks the enemy off their feet. Only a crouching guard stops "
+"it."
+msgstr ""
+
+#: src/inkfist/game.py:61 src/inkfist/game.py:850
+msgid "Dodge"
+msgstr ""
+
+#: src/inkfist/game.py:61
+msgid "SPACE. A quick step back: attacks pass right through you."
+msgstr ""
+
+#: src/inkfist/game.py:62
+msgid "Perfect Parry"
+msgstr ""
+
+#: src/inkfist/game.py:62
+msgid "Block at the very last moment: the enemy staggers and you gain focus."
+msgstr ""
+
+#: src/inkfist/game.py:63 src/inkfist/game.py:851
+msgid "Flying Kick"
+msgstr ""
+
+#: src/inkfist/game.py:63
+msgid "U. A leaping kick across the arena. Costs a third of your focus."
+msgstr ""
+
+#: src/inkfist/game.py:64 src/inkfist/game.py:852
+msgid "Spirit Palm"
+msgstr ""
+
+#: src/inkfist/game.py:64
+msgid "I. Releases a wave of ink. Needs a full focus bar."
+msgstr ""
+
+#: src/inkfist/game.py:368
+msgid "Not enough focus"
+msgstr ""
+
+#: src/inkfist/game.py:511
+msgid "Flawless!"
+msgstr ""
+
+#: src/inkfist/game.py:584
+msgid "Parry!"
+msgstr ""
+
+#: src/inkfist/game.py:637
+msgid "The Warlord is furious!"
+msgstr ""
+
+#: src/inkfist/game.py:757
+msgid "PAUSED"
+msgstr ""
+
+#: src/inkfist/game.py:757
+msgid "P — continue    ESC — main menu"
+msgstr ""
+
+#: src/inkfist/game.py:759
+msgid "You have fallen"
+msgstr ""
+
+#: src/inkfist/game.py:761
+#, python-brace-format
+msgid "Spirit left: {n}. ENTER — rise and fight again"
+msgstr ""
+
+#: src/inkfist/game.py:763
+msgid "No spirit left. ENTER — restart the chapter"
+msgstr ""
+
+#: src/inkfist/game.py:764
+msgid "ESC — main menu"
+msgstr ""
+
+#: src/inkfist/game.py:810
+msgid "A journey of fists and ink"
+msgstr ""
+
+#: src/inkfist/game.py:811
+msgid "HI-SCORE"
+msgstr ""
+
+#: src/inkfist/game.py:812
+msgid "On"
+msgstr ""
+
+#: src/inkfist/game.py:812
+msgid "Off"
+msgstr ""
+
+#: src/inkfist/game.py:814
+msgid "New journey"
+msgstr ""
+
+#: src/inkfist/game.py:815
+#, python-brace-format
+msgid "Continue: {name}"
+msgstr ""
+
+#: src/inkfist/game.py:816 src/inkfist/game.py:842
+msgid "Controls"
+msgstr ""
+
+#: src/inkfist/game.py:817
+#, python-brace-format
+msgid "Difficulty: {name}"
+msgstr ""
+
+#: src/inkfist/game.py:818
+#, python-brace-format
+msgid "Language: {name}"
+msgstr ""
+
+#: src/inkfist/game.py:819
+#, python-brace-format
+msgid "Sound: {state}"
+msgstr ""
+
+#: src/inkfist/game.py:820
+#, python-brace-format
+msgid "Music: {state}"
+msgstr ""
+
+#: src/inkfist/game.py:821
+#, python-brace-format
+msgid "Fullscreen: {state}"
+msgstr ""
+
+#: src/inkfist/game.py:823
+msgid "Quit"
+msgstr ""
+
+#: src/inkfist/game.py:838
+msgid "ARROWS — choose    ENTER — confirm    F11 — fullscreen"
+msgstr ""
+
+#: src/inkfist/game.py:844
+msgid "Move"
+msgstr ""
+
+#: src/inkfist/game.py:844
+msgid "Left stick / D-pad"
+msgstr ""
+
+#: src/inkfist/game.py:845
+msgid "Crouch"
+msgstr ""
+
+#: src/inkfist/game.py:846
+msgid "Punch"
+msgstr ""
+
+#: src/inkfist/game.py:847
+msgid "Kick  (Up + kick — high kick)"
+msgstr ""
+
+#: src/inkfist/game.py:848
+msgid "Block (hold; crouch + block — low guard)"
+msgstr ""
+
+#: src/inkfist/game.py:853
+msgid "Pause"
+msgstr ""
+
+#: src/inkfist/game.py:855
+msgid "Keyboard"
+msgstr ""
+
+#: src/inkfist/game.py:856
+msgid "Gamepad"
+msgstr ""
+
+#: src/inkfist/game.py:862
+msgid "New techniques are learned as the journey goes on."
+msgstr ""
+
+#: src/inkfist/game.py:863
+msgid "Press any key to return"
+msgstr ""
+
+#: src/inkfist/game.py:874
+msgid "THE END"
+msgstr ""
+
+#: src/inkfist/game.py:876
+#, python-brace-format
+msgid "Score: {n}"
+msgstr ""
+
+#: src/inkfist/game.py:878
+msgid "NEW HIGH SCORE!"
+msgstr ""
+
+#: src/inkfist/game.py:879
+msgid "Thank you for playing."
+msgstr ""
+
+#: src/inkfist/game.py:881
+msgid "Press ENTER"
+msgstr ""
+
+#: src/inkfist/game.py:885
+#, python-brace-format
+msgid "Chapter {n}"
+msgstr ""
+
+#: src/inkfist/game.py:890
+msgid "Epilogue"
+msgstr ""
+
+#: src/inkfist/game.py:897 src/inkfist/game.py:902
+msgid "ENTER — continue"
+msgstr ""
+
+#: src/inkfist/game.py:901
+msgid "Chapter complete!"
+msgstr ""
+
+#: src/inkfist/game.py:901
+msgid "New technique learned"
+msgstr ""
+
+#: src/inkfist/game.py:977
+msgid "You"
+msgstr ""
+
+#: src/inkfist/game.py:982
+msgid "Focus"
+msgstr ""
+
+#: src/inkfist/game.py:987
+msgid "Score"
+msgstr ""
+
+#: src/inkfist/game.py:1003
+msgid "Right — walk    J punch    K kick    hold L — block    Down — crouch"
+msgstr ""
+
+#: src/inkfist/world.py:38
+msgid "The Bamboo Grove"
+msgstr ""
+
+#: src/inkfist/world.py:38
+msgid "The River Gorge"
+msgstr ""
+
+#: src/inkfist/world.py:38
+msgid "The Rain Monastery"
+msgstr ""
+
+#: src/inkfist/world.py:39
+msgid "The Snow Pass"
+msgstr ""
+
+#: src/inkfist/world.py:39
+msgid "The Ember Temple"
+msgstr ""
+
+#: src/inkfist/world.py:39
+msgid "The Summit of Seven Winds"
+msgstr ""
+
+#: src/inkfist/world.py:43
+msgid "Brigand"
+msgstr ""
+
+#: src/inkfist/world.py:43
+msgid "Brute"
+msgstr ""
+
+#: src/inkfist/world.py:43
+msgid "Lancer"
+msgstr ""
+
+#: src/inkfist/world.py:43
+msgid "Shade"
+msgstr ""
+
+#: src/inkfist/world.py:44
+msgid "Monk"
+msgstr ""
+
+#: src/inkfist/world.py:44
+msgid "Bamboo Fang"
+msgstr ""
+
+#: src/inkfist/world.py:44
+msgid "Bridge Keeper"
+msgstr ""
+
+#: src/inkfist/world.py:44
+msgid "Abbot of Rain"
+msgstr ""
+
+#: src/inkfist/world.py:45
+msgid "White Wolf"
+msgstr ""
+
+#: src/inkfist/world.py:45
+msgid "Ember General"
+msgstr ""
+
+#: src/inkfist/world.py:45
+msgid "The Warlord"
+msgstr ""
